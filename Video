@@ -1,0 +1,19 @@
+AWS CloudOps Project — Video Demonstration
+
+This video demonstrates my hands-on AWS project, Highly Available and Scalable Web Application Infrastructure on AWS.
+
+Features Demonstrated
+
+- Apache web application hosted on Amazon EC2
+- Application Load Balancer (ALB) for traffic distribution
+- EC2 Auto Scaling Group deployed across two Availability Zones
+- Automatic EC2 instance replacement and recovery
+- CPU-based automatic scale-out from 2 to 3 instances
+- Automatic scale-in from 3 to 2 instances
+- Amazon CloudWatch metrics, monitoring, and scaling alarms
+
+Project Outcome
+
+Successfully implemented and tested a highly available and scalable AWS web infrastructure, demonstrating load balancing, multi-AZ deployment, automatic instance recovery, and CPU-based Auto Scaling.
+
+AWS Services: Amazon EC2, Application Load Balancer, EC2 Auto Scaling, Amazon VPC, Amazon CloudWatch, and IAM.
